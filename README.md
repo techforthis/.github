@@ -1,2 +1,2 @@
 # .github
-Community health files for the @techforthis organization
+Community health files for the @techforunderscore organization
